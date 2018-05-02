@@ -1,0 +1,8 @@
+{
+  "slackToken": "xxx",
+  "channels": [],
+  "camera": {
+    "height": 720,
+    "width": 1280
+  }
+}
